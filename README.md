@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/hate-speech-detection.git
+git clone (https://github.com/Basavarajanu/hate_speech_detection_project/tree/main)
 cd hate-speech-detection
 Install dependencies:
 
